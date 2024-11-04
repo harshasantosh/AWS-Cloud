@@ -1,0 +1,502 @@
+[
+    {
+        "category": "Fruit",
+        "createdDate": "2017-04-17T01:14:03 -02:00",
+        "description": "Delight your senses with the exquisite allure of 'Packaged Strawberries,' a fruit sensation that transcends ordinary sweetness.",
+        "modifiedDate": "2023-11-13T12:18:27 -01:00",
+        "name": "Packaged Strawberries",
+        "package": {
+            "height": 948,
+            "length": 455,
+            "weight": 54,
+            "width": 905
+        },
+        "pictures": [
+            "http://placehold.it/32x32"
+        ],
+        "price": 756,
+        "productId": "4c1fadaa-213a-4ea8-aa32-58c217604e3c",
+        "tags": [
+            "mollit",
+            "ad",
+            "eiusmod",
+            "irure",
+            "tempor"
+        ]
+    },
+    {
+        "category": "Sweet",
+        "createdDate": "2023-11-06T06:21:36 -02:00",
+        "description": "A symphony of rich cocoa and sweet sensations entwined in every chew. Immerse yourself in the playful dance of smooth chocolatey goodness, as each bite unveils a world of irresistible flavor.",
+        "modifiedDate": "2023-11-21T12:08:48 -02:00",
+        "name": "Hershey's Twizzlers",
+        "package": {
+            "height": 329,
+            "length": 179,
+            "weight": 293,
+            "width": 741
+        },
+        "pictures": [
+            "http://placehold.it/32x32"
+        ],
+        "price": 235,
+        "productId": "d2580eff-d105-45a5-9b21-ba61995bc6da",
+        "tags": [
+            "laboris",
+            "dolor",
+            "in",
+            "labore",
+            "duis"
+        ]
+    },
+    {
+        "category": "Fruit",
+        "createdDate": "2023-11-17T03:06:53 -01:00",
+        "description": "Introducing 'Bananas,' nature's golden gift that transcends ordinary sweetness to deliver a delightful tropical experience.",
+        "modifiedDate": "2019-11-25T12:32:49 -01:00",
+        "name": "Bananas",
+        "package": {
+            "height": 736,
+            "length": 567,
+            "weight": 41,
+            "width": 487
+        },
+        "pictures": [
+            "http://placehold.it/32x32"
+        ],
+        "price": 2,
+        "productId": "a6dd7187-40b6-4cb5-b73c-aecd655c6d9a",
+        "tags": [
+            "nisi",
+            "quis",
+            "sint",
+            "adipisicing",
+            "pariatur"
+        ]
+    },
+    {
+        "category": "Vegetable",
+        "createdDate": "2023-11-17T02:14:55 -02:00",
+        "description": "These tomatoes, handpicked at the peak of ripeness, carry the essence of sun-kissed fields and are thoughtfully packaged to preserve their natural goodness.",
+        "modifiedDate": "2019-09-05T03:36:34 -02:00",
+        "name": "Packaged Tomatoes",
+        "package": {
+            "height": 4,
+            "length": 756,
+            "weight": 607,
+            "width": 129
+        },
+        "pictures": [
+            "http://placehold.it/32x32"
+        ],
+        "price": 139,
+        "productId": "c0fbcc6b-7a70-41ac-aac4-f8fd237dc62e",
+        "tags": [
+            "dolor",
+            "officia",
+            "fugiat",
+            "officia",
+            "voluptate"
+        ]
+    },
+    {
+        "category": "Vegetable",
+        "createdDate": "2023-11-25T12:00:11 -02:00",
+        "description": "Indulge your senses in the vibrant world of 'Bell Peppers,' a vegetable masterpiece cultivated with dedication and passion.",
+        "modifiedDate": "2019-10-04T06:32:14 -02:00",
+        "name": "Bell Peppers",
+        "package": {
+            "height": 881,
+            "length": 252,
+            "weight": 66,
+            "width": 431
+        },
+        "pictures": [
+            "http://placehold.it/32x32"
+        ],
+        "price": 139,
+        "productId": "cb40c919-033a-47d6-8d00-1d73e2df20fe",
+        "tags": [
+            "nostrud",
+            "elit",
+            "Lorem",
+            "occaecat",
+            "duis"
+        ]
+    },
+    {
+        "category": "Vegetable",
+        "createdDate": "2023-11-07T05:28:03 -01:00",
+        "description": "As you slice through the layers of our 'Onions,' released are the distinct aromas and flavors that have been cherished in kitchens around the world.",
+        "modifiedDate": "2019-04-03T10:36:25 -02:00",
+        "name": "Onions",
+        "package": {
+            "height": 813,
+            "length": 932,
+            "weight": 457,
+            "width": 436
+        },
+        "pictures": [
+            "http://placehold.it/32x32"
+        ],
+        "price": 151,
+        "productId": "12929eb9-3eb7-4217-99e4-1a39c39217b6",
+        "tags": [
+            "ad",
+            "ipsum",
+            "est",
+            "eiusmod",
+            "duis"
+        ]
+    },
+    {
+        "category": "Meat",
+        "createdDate": "2023-11-03T12:33:44 -01:00",
+        "description": "Dive into the exquisite world of seafood with our 'Shrimps.' Born from the depths of the ocean, these delectable crustaceans bring a taste of the sea to your table.",
+        "modifiedDate": "2019-04-17T06:31:47 -02:00",
+        "name": "Shrimps",
+        "package": {
+            "height": 707,
+            "length": 417,
+            "weight": 491,
+            "width": 549
+        },
+        "pictures": [
+            "http://placehold.it/32x32"
+        ],
+        "price": 894,
+        "productId": "9fd9ef32-493f-4188-99f5-3aa809aa4fa9",
+        "tags": [
+            "fugiat",
+            "velit",
+            "non",
+            "magna",
+            "laboris"
+        ]
+    },
+    {
+        "category": "Vegetable",
+        "createdDate": "2023-11-27T06:48:08 -02:00",
+        "description": "Experience the crisp vibrancy of nature with our 'Fresh Lettuce.' Harvested at the peak of perfection, this verdant delight is a testament to the art of cultivating the finest greens.",
+        "modifiedDate": "2019-11-01T10:23:57 -01:00",
+        "name": "Fresh Lettuce",
+        "package": {
+            "height": 21,
+            "length": 311,
+            "weight": 817,
+            "width": 964
+        },
+        "pictures": [
+            "http://placehold.it/32x32"
+        ],
+        "price": 352,
+        "productId": "20db6331-1084-48ff-8c4f-c1d98a6a1aa4",
+        "tags": [
+            "laborum",
+            "in",
+            "aliquip",
+            "sint",
+            "quis"
+        ]
+    },
+    {
+        "category": "Sweet",
+        "createdDate": "2023-11-24T04:01:33 -01:00",
+        "description": "Experience the sweet symphony of indulgence with 'Hershey's Miniatures,' a delightful ensemble of iconic chocolate treat.",
+        "modifiedDate": "2019-05-19T05:53:56 -02:00",
+        "name": "Hershey's Miniatures",
+        "package": {
+            "height": 337,
+            "length": 375,
+            "weight": 336,
+            "width": 1
+        },
+        "pictures": [
+            "http://placehold.it/32x32"
+        ],
+        "price": 346,
+        "productId": "8c843a54-27d7-477c-81b3-c21db12ed1c9",
+        "tags": [
+            "officia",
+            "proident",
+            "officia",
+            "commodo",
+            "nisi"
+        ]
+    },
+    {
+        "category": "Dairy",
+        "createdDate": "2023-11-29T11:46:28 -02:00",
+        "description": "Indulge in the creamy goodness of our 'Yogurt,' a delectable creation that harmonizes the essence of dairy with a touch of culinary finesse.",
+        "modifiedDate": "2019-05-29T05:33:49 -02:00",
+        "name": "Yogurt",
+        "package": {
+            "height": 267,
+            "length": 977,
+            "weight": 85,
+            "width": 821
+        },
+        "pictures": [
+            "http://placehold.it/32x32"
+        ],
+        "price": 263,
+        "productId": "8d2024c0-6c05-4691-a0ff-dd52959bd1df",
+        "tags": [
+            "excepteur",
+            "ipsum",
+            "nulla",
+            "nisi",
+            "velit"
+        ]
+    },
+    {
+        "category": "Bakery",
+        "createdDate": "2023-11-22T05:22:38 -02:00",
+        "description": " Each croissant is a work of art, carefully rolled and baked to perfection, ensuring a texture that is both crisp and irresistibly soft.",
+        "modifiedDate": "2019-03-11T06:10:38 -01:00",
+        "name": "Fresh Croissants",
+        "package": {
+            "height": 122,
+            "length": 23,
+            "weight": 146,
+            "width": 694
+        },
+        "pictures": [
+            "http://placehold.it/32x32"
+        ],
+        "price": 614,
+        "productId": "867ecb2b-ef08-446e-8360-b63f60969e3d",
+        "tags": [
+            "labore",
+            "dolor",
+            "aliquip",
+            "nulla",
+            "aute"
+        ]
+    },
+    {
+        "category": "Meat",
+        "createdDate": "2023-11-12T07:24:46 -02:00",
+        "description": "Our 'Beef' transcends time and tradition, bringing the essence of a well-prepared meal to your dining table.",
+        "modifiedDate": "2019-10-28T01:25:50 -01:00",
+        "name": "Beef",
+        "package": {
+            "height": 902,
+            "length": 278,
+            "weight": 775,
+            "width": 31
+        },
+        "pictures": [
+            "http://placehold.it/32x32"
+        ],
+        "price": 877,
+        "productId": "684011fc-ecfd-4557-a6df-9fc977365826",
+        "tags": [
+            "voluptate",
+            "laborum",
+            "exercitation",
+            "anim",
+            "anim"
+        ]
+    },
+    {
+        "category": "Bakery",
+        "createdDate": "2023-11-12T09:15:36 -02:00",
+        "description": " Crafted with care and passion, this bread is a timeless classic, offering a symphony of flavors and textures that transcend the ordinary.",
+        "modifiedDate": "2019-08-22T04:22:39 -02:00",
+        "name": "Fresh Bread",
+        "package": {
+            "height": 551,
+            "length": 976,
+            "weight": 47,
+            "width": 846
+        },
+        "pictures": [
+            "http://placehold.it/32x32"
+        ],
+        "price": 805,
+        "productId": "b027697d-a070-4c8f-8b9a-b8c80b2eb0ba",
+        "tags": [
+            "nostrud",
+            "in",
+            "duis",
+            "laboris",
+            "minim"
+        ]
+    },
+    {
+        "category": "Sweet",
+        "createdDate": "2023-11-06T06:03:43 -02:00",
+        "description": "As you savor each bite, you'll experience the perfect harmony of sweetness, transporting you to a world where every moment is a celebration.",
+        "modifiedDate": "2019-10-16T10:53:33 -02:00",
+        "name": "Airheads Strawberry Taffy Candy",
+        "package": {
+            "height": 55,
+            "length": 32,
+            "weight": 661,
+            "width": 694
+        },
+        "pictures": [
+            "http://placehold.it/32x32"
+        ],
+        "price": 149,
+        "productId": "7e0dbfa9-a672-4987-a26c-f601d177463a",
+        "tags": [
+            "minim",
+            "irure",
+            "in",
+            "duis",
+            "labore"
+        ]
+    },
+    {
+        "category": "Bakery",
+        "createdDate": "2023-11-23T12:27:34 -02:00",
+        "description": "Indulge in the divine allure of our Cheese Cake, a tantalizing creation that embodies the artistry of fine baking.",
+        "modifiedDate": "2019-09-04T08:25:44 -02:00",
+        "name": "Cheese Cake",
+        "package": {
+            "height": 718,
+            "length": 59,
+            "weight": 18,
+            "width": 962
+        },
+        "pictures": [
+            "http://placehold.it/32x32"
+        ],
+        "price": 646,
+        "productId": "d1d527b8-9cef-4e97-a873-22236f3ee289",
+        "tags": [
+            "in",
+            "ea",
+            "excepteur",
+            "id",
+            "dolore"
+        ]
+    },
+    {
+        "category": "Vegetable",
+        "createdDate": "2023-11-08T04:08:28 -01:00",
+        "description": "Embark on a culinary adventure with our exquisite Potatoes, a versatile delight that elevates your dining experience to new heights.",
+        "modifiedDate": "2019-10-11T10:28:49 -02:00",
+        "name": "Potatoes",
+        "package": {
+            "height": 81,
+            "length": 57,
+            "weight": 653,
+            "width": 367
+        },
+        "pictures": [
+            "http://placehold.it/32x32"
+        ],
+        "price": 197,
+        "productId": "11663d33-e54d-49da-ba6f-44d016ecde7e",
+        "tags": [
+            "incididunt",
+            "in",
+            "adipisicing",
+            "eu",
+            "tempor"
+        ]
+    },
+    {
+        "category": "Meat",
+        "createdDate": "2023-11-28T04:01:24 -02:00",
+        "description": "Experience the epitome of poultry perfection with our succulent Chicken Breast.",
+        "modifiedDate": "2019-08-05T01:06:02 -02:00",
+        "name": "Chicken Breast",
+        "package": {
+            "height": 246,
+            "length": 639,
+            "weight": 354,
+            "width": 953
+        },
+        "pictures": [
+            "http://placehold.it/32x32"
+        ],
+        "price": 828,
+        "productId": "e173d669-b449-4226-af2e-128142abdd30",
+        "tags": [
+            "exercitation",
+            "magna",
+            "ex",
+            "quis",
+            "ad"
+        ]
+    },
+    {
+        "category": "Dairy",
+        "createdDate": "2023-11-23T06:31:47 -02:00",
+        "description": "Indulge in the pure essence of dairy delight with our Fresh Milk – a symphony of creamy goodness and wholesome nutrition.",
+        "modifiedDate": "2019-10-02T10:50:16 -02:00",
+        "name": "Fresh Milk",
+        "package": {
+            "height": 576,
+            "length": 948,
+            "weight": 535,
+            "width": 646
+        },
+        "pictures": [
+            "http://placehold.it/32x32"
+        ],
+        "price": 169,
+        "productId": "2a5b681c-ec7f-4bd4-a51e-57a5b6591f7f",
+        "tags": [
+            "labore",
+            "id",
+            "mollit",
+            "occaecat",
+            "elit"
+        ]
+    },
+    {
+        "category": "Vegetable",
+        "createdDate": "2023-11-21T01:55:54 -01:00",
+        "description": "Cultivated with care and bursting with freshness, these tomatoes are a testament to the artistry of the earth.",
+        "modifiedDate": "2019-02-23T08:50:01 -01:00",
+        "name": "Roma Tomatoes",
+        "package": {
+            "height": 348,
+            "length": 119,
+            "weight": 723,
+            "width": 44
+        },
+        "pictures": [
+            "http://placehold.it/32x32"
+        ],
+        "price": 283,
+        "productId": "de979b05-9d71-4c7e-b10f-636332ccb6c1",
+        "tags": [
+            "id",
+            "velit",
+            "cillum",
+            "irure",
+            "aute"
+        ]
+    },
+    {
+        "category": "Meat",
+        "createdDate": "2023-11-14T03:39:21 -02:00",
+        "description": "Sourced from the finest cuts, our fresh steak promises an exquisite dining experience that transcends the ordinary.",
+        "modifiedDate": "2019-11-24T02:23:27 -01:00",
+        "name": "Fresh Steak",
+        "package": {
+            "height": 328,
+            "length": 7,
+            "weight": 439,
+            "width": 747
+        },
+        "pictures": [
+            "http://placehold.it/32x32"
+        ],
+        "price": 996,
+        "productId": "aa91060a-3601-4cb8-a2cc-025d09c7a9b7",
+        "tags": [
+            "qui",
+            "dolore",
+            "culpa",
+            "est",
+            "duis"
+        ]
+    }
+]
